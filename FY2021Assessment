@@ -1,20 +1,26 @@
 {
- "name": "flare",
+ "name": "assessment",
  "children": [
   {
-   "name": "analytics",
+   "name": "Mission",
    "children": [
     {
-     "name": "cluster",
+     "name": "AEAS 1",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+     {
+     "name":"AEAS 1a",
+     "children": [    
+      {"name": "AEAS 1a(1)MissionStatement", "value": 100},
+      {"name": "AEAS 1a(2)MissionDocuments", "value": 100},
+      {"name": "AEAS 1a(3)MissionFunctions", "value": 100},
+      {"name": "AEAS 1a(4)MissionProcesses", "value": 100},
+      {"name": "AEAS 1a(5)MissionUnderstood","value": 100},
+      {"name": "AEAS 1a(6)MissionTraining","value": 
+      {"name": "
      ]
     },
     {
-     "name": "graph",
+     "name": "KnowledgeManagement",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
       {"name": "LinkDistance", "value": 5731},
@@ -24,7 +30,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Doctrine",
      "children": [
       {"name": "AspectRatioBanker", "value": 7074}
      ]
@@ -32,7 +38,7 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "Lessonlearned",
    "children": [
     {"name": "Easing", "value": 17010},
     {"name": "FunctionSequence", "value": 5842},
@@ -62,7 +68,7 @@
    ]
   },
   {
-   "name": "data",
+   "name": "Creden",
    "children": [
     {
      "name": "converters",
